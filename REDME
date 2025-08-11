@@ -19,3 +19,6 @@ cd siteManga
 
 
 ---------------------------------------------------------------------------------------------
+git remote add origin https://github.com/ViniciusN1/Site_manga.git
+git branch -M main
+git push -u origin main
