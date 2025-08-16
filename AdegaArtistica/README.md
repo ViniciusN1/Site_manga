@@ -37,3 +37,9 @@ npm run build
 ```sh
 npm run lint
 ```
+### ESTAGIOS 
+```sh
+Faze 01 ---- Fazer Tela de login ----- Concluida
+Faze 02 ---- Fazer Integração do banco de dados ---- Andamento 
+    -------> Banco de dados (POSTGRESQL) ---- 16/08/2025
+```
